@@ -3,7 +3,5 @@
 Bem vindo ao livro de recitas:book:
 
 - Strogonoff de frango
-
 - Pudim
-
-  
+- Bolo de cenoura
